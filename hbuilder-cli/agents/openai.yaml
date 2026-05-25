@@ -1,0 +1,4 @@
+interface:
+  display_name: "HBuilder CLI"
+  short_description: "Build uni-app projects with HBuilder CLI."
+  default_prompt: "Use $hbuilder-cli to inspect this uni-app project and run the appropriate HBuilderX CLI workflow."
