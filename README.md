@@ -205,4 +205,4 @@ powershell -ExecutionPolicy Bypass -File $probe -ProjectPath "D:\path\to\uniapp-
 
 ## 鸣谢
 
-- [天景_24](https://github.com/tianjing-24) - 提供 UTS/uni-app x 编码约束配置（`references/uts-constraints.md`）
+- [天景_24](https://github.com/Tianjin-12) - 提供 UTS/uni-app x 编码约束配置（`references/uts-constraints.md`）
