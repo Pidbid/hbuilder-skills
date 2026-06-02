@@ -49,3 +49,4 @@ Never print certificate passwords, private key contents, upload keys, app secret
 
 - Read `references/hbuilder-cli.md` for common install paths, verified CLI behavior, command families, and examples.
 - Read `references/uniapp-workflows.md` for uni-app project inspection, platform prechecks, output locations, and troubleshooting flow.
+- Read `references/uts-constraints.md` for UTS/uni-app x coding constraints, type system rules, Android platform specifics, and common compilation error fixes.
