@@ -202,3 +202,7 @@ powershell -ExecutionPolicy Bypass -File $probe -ProjectPath "D:\path\to\uniapp-
 - 自动安装 HBuilderX 本体
 - 代替微信、支付宝、iOS、Android、Harmony 等外部平台的账号和证书配置
 - 在没有用户确认的情况下执行上传、云打包、登录、发布等外部副作用操作
+
+## 鸣谢
+
+- [天景_24](https://github.com/tianjing-24) - 提供 UTS/uni-app x 编码约束配置（`references/uts-constraints.md`）
